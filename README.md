@@ -45,11 +45,11 @@ To learn more about the technologies used in this site template, see the followi
 - [FlexSearch](https://github.com/nextapps-de/flexsearch) - the official FlexSearch documentation
 - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction) - the official Zustand documentation
 
-# El componente Header es encabezado de la pagina principal
+- El componente Header es encabezado de la pagina principal
 
-# El fichero llamado page.mdx dentro de la carpeta app esta el contenido de la página principal
+- El fichero llamado page.mdx dentro de la carpeta app esta el contenido de la página principal
 
-# En la carperta app estan las carpetas con los nombres de todo el contenido de la pagina. Dentro estan los ficheros.mdx con la información contenida en cada uno. Ex: atachments --> page.mdx --> Contenido de este módulo, le he colocado al título dos asteriscos 
+- En la carperta app estan las carpetas con los nombres de todo el contenido de la pagina. Dentro estan los ficheros.mdx con la información contenida en cada uno. Ex: atachments --> page.mdx --> Contenido de este módulo, le he colocado al título dos asteriscos 
 
 
 
